@@ -17,6 +17,10 @@ public class firstgit {
         int i = 10;
         i += 10;
         System.out.println(i);
+
+        int f = 0;
+        f = i +10;
+        System.out.println(f);
     }
 
 }
